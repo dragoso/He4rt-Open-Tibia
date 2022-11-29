@@ -1,0 +1,50 @@
+[
+  {
+    "name": "World Chat",
+    "opened": true,
+    "enabled": true
+  },
+  {
+    "name": "Advertising",
+    "description": "Here you can advertise all kinds of things. Among others, you can trade Tibia items, advertise ingame events, seek characters for a quest or a hunting group, find members for your guild or look for somebody to help you with something. It goes without saying that all advertisements must conform to the Tibia Rules, e.g. it is illegal to advertise trades including real money.",
+    "muterule": {
+      "messagescount": 1,
+      "timetoblock": 120,
+      "waittime": 120,
+      "timemultiplier": 1,
+      "cancelmessage": "You may only place one offer in two minutes."
+    }
+  },
+  {
+    "name": "Help",
+    "color": {
+      "mydefault": "white"
+    }
+  },
+  {
+    "name": "Rookgaard",
+    "allowedvocations": [
+      0
+    ]
+  },
+  {
+    "name": "Only Level 300+",
+    "allowedvocations": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allowedlevels": {
+      "biggerthen": 700
+    }
+  },
+  {
+    "name": "Events",
+    "writerules": {
+      "allowedvocations": [
+        7
+      ]
+    }
+  }
+]

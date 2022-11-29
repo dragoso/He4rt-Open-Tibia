@@ -1,0 +1,25 @@
+package he4rt.open.tibia.world.game.map.item;
+
+public enum ItemAttribute { 
+    ALWAYSONTOP,
+    FLOORCHANGEDOWN,
+    FLOORCHANGEWEST,
+    FLOORCHANGESOUTH,
+    FLOORCHANGEEAST,
+    FLOORCHANGENORTH,
+    BLOCKSOLID,
+    BLOCKPROJECTILE,
+    BLOCKPATHFIND,
+    PICKUPABLE,
+    STACKABLE,
+    MOVEABLE,
+    HASHEIGHT,
+    USEABLE,
+    VERTICAL,
+    HORIZONTAL,
+    DISTREAD,
+    ROTABLE,
+    READABLE,
+    CORPSE,
+    HANGABLE;
+}
