@@ -9,7 +9,6 @@ In first, special thanks to all contribuitors from...
 
 This source is UNDER CONSTRUCTION, then not use this for production NOW!!!!
 
-How to use this? You will need three basic things
 # Downloads
 _JDK 17++_ (I will always keep in the lts version of java)
 * [JDK-17](https://www.oracle.com/br/java/technologies/downloads/#java17)
