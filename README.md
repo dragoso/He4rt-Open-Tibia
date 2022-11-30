@@ -1,5 +1,7 @@
 # He4rt-Open-Tibia
 
+![Discord](https://discordapp.com/api/guilds/1007008871748997130/widget.png?style=shield)
+
 Repository created for Tibia Open Source in Java.
 
 In first, special thanks to all contribuitors from...
@@ -29,4 +31,4 @@ _Integrated development environment (IDE)_
 * [NetBeans](https://netbeans.apache.org/download/nb15/)
 
 
-# How to run
+# How to run (under construction)...
